@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our Spencer's slide!"
 ---
-Github sucks
+Github still sucks
 Use the left arrow to go back!
